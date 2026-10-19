@@ -13,3 +13,5 @@ The HTML documents and their revision history are public in this repository. The
 Support: vitaliiinm@gmail.com
 
 © 2026 Vitalii Krutko.
+
+Account and data deletion requests: https://krutkovitaliy.github.io/delete-account.html . No account identifiers or request submissions belong in this public repository.
