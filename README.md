@@ -4,6 +4,7 @@ Public legal website for Stellar Abyss: Idle Orbit, published by Vitalii Krutko.
 
 - [Website](https://krutkovitaliy.github.io/)
 - [Privacy policy](https://krutkovitaliy.github.io/privacy.html)
+- [Policy for earlier releases](https://krutkovitaliy.github.io/legacy-privacy.html)
 - [Terms of use](https://krutkovitaliy.github.io/terms.html)
 - [app-ads.txt](https://krutkovitaliy.github.io/app-ads.txt)
 
